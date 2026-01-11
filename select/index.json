@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "低血ボルト",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-01-11T10:32:56.834365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "低血ボルト",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_低血ボルト_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "低血ボルト",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_低血ボルト_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "低血ボルト",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_低血ボルト_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "低血ボルト (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_低血ボルト_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "低血ボルト",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_低血ボルト_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "低血ボルト　 - Fastening",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_低血ボルト_-_Fastening_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "低血ボルト = Fastening",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/07_低血ボルト_=_Fastening_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "低血ボルト (Instrumental)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_低血ボルト_(Instrumental)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "低血ボルト - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/09_低血ボルト_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "低血ボルト",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_低血ボルト_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "低血ボルト",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_低血ボルト_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
